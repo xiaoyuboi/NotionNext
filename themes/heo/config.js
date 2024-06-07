@@ -18,8 +18,8 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '努力提升',
   HEO_HERO_TITLE_2: '搞点黑科技',
   HEO_HERO_TITLE_3: 'xiaoyu.ing',
-  HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
+  HEO_HERO_TITLE_4: '搞点钱赚',
+  HEO_HERO_TITLE_5: '小宇商店可能有你感兴趣的',
   HEO_HERO_TITLE_LINK: 'https://www.xiaoyu.ing',
 
   // 英雄区显示三个置顶分类
